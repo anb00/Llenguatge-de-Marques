@@ -1,3 +1,12 @@
+```
+# <!-- README.MD
+# -*- coding: utf-8- -*-
+# @Time: 8/10/17 21:00
+# @Author: anb00
+# @File: README.MD  -->
+```
+
+
 <DIV CLASS="OLA" STYLE="color:darkgreen;text-shadow:2px 2px 4px rgb(699,100,900);font-family;monospace;font-size:35px;position:absolute;left:10%;position:center;">
 
 <FONT class=""> &reg; MARKDOWN  README-LLM- 1ºASIX &reg;</FONT>
