@@ -20,28 +20,8 @@ Manual Git i GitHub
 
 
 
-######################### tutorial Atom ############################
-##La Actividad consiste en crear un pequeño tutorial sobre Github y markdown, los primeros pasos al instalar Atom y enlazarlo con github.
-#Descargar Atom
-#Crear acc en github.com > Esto te facilita un nombre de usuario en gh @usuariogithub >Crear Repositorio Primero!
-#Con atom abierto pulsar control + Shift para buscar Clone y poner el link de nuestro Repositorio Primero!
-#Todos los archivos con formato .md o .markdown Pertenecen a Atom y en este repositorio Primero Tendremos un **.md o un *.markdown**
-#Podemos Modificar nuestro archivo README de nuestro Repositorio ``carpeta Repositorio Primero `` Con información sobre nuestros archivos.
-#
-#
-#
-#
-#
-#
+######################### Crear Tutorial en el Archivo README.md
 
 
 
 
-Negrita | **Bold**
-------------------
-Italic  | *I*
-------------------
-
-
-# Llenguatge-de-Marques
-*Actividades*
