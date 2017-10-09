@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <Div class="" STYLE="color:lime;text-shadow:2px 2px 4px rgb(699,100,900);font-family;monospace;font-size:35px;position:absolute;left:10%;position:center;">
 <Font class=""> &reg; MARKDOWN  README-LLM- 1ºASIX &reg;</FONT>
 </Div>
