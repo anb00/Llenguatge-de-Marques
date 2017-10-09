@@ -125,9 +125,6 @@ Instalar (Control Shift + p).
 
 <br>
 <br>
-<br>
-<br>
-<br>
 
 
 ;; EOF &copy; ;;
